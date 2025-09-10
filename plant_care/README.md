@@ -52,3 +52,4 @@ Mobile/Web Integration: Can be deployed as a mobile or web app for farmers.
 
 I uploaded the tflite model using mobileNet_V3 large architecture model which is efficient for mobile integration apps
 
+
